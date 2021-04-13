@@ -1,0 +1,23 @@
+{
+  "name": "jessica-scott",
+  "version": "1.0.0",
+  "description": "Website for Jessica Scott",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrance/jessica-scott.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerrance/jessica-scott/issues"
+  },
+  "homepage": "https://github.com/kerrance/jessica-scott#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
